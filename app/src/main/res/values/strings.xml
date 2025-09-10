@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment_3DEVELOPMENT2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- أضف هذه -->
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+</resources>

@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home" android:title="Home" android:icon="@drawable/home_1_svgrepo_com"/>
+    <item android:id="@+id/nav_search" android:title="Search" android:icon="@drawable/search_svgrepo_com"/>
+    <item android:id="@+id/nav_notifications" android:title="Notifications" android:icon="@drawable/notification_bell_on_svgrepo_com"/>
+    <item android:id="@+id/nav_profile" android:title="Profile" android:icon="@drawable/profile_round_1342_svgrepo_com"/>
+</menu>
